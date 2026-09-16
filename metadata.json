@@ -1,0 +1,6 @@
+{
+  "name": "Namma Lorry - Logistics OS",
+  "description": "Mission-critical B2B freight marketplace and operating system for South India highway industrial corridors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
